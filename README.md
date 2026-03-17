@@ -104,11 +104,6 @@ System Settings → Shortcuts → Custom Shortcuts, add:
 
 **Also:** This will start the GUI if not running (skip via --nogui), and the needs an addional shortcut trigger to start (skip by removing --guicheck). 
 
-### Screenshots
-[<img src="images/main-window.png" alt="main-window" width="44%">](
-images/main-window.png) [<img src="images/settings-window.png" alt="settings-window.png" width="30%">](
-images/settings-window.png)
-
 ## Config File
 
 Saved to `~/.config/way-clicker/way-clicker.conf` (INI format via Qt QSettings).
@@ -139,6 +134,11 @@ runner_buttonmap=left:left, middle:middle, right:right
 ```
 
 So its setup for dotool by default.
+
+### Screenshots
+[<img src="images/main-window.png" alt="main-window" width="44%">](
+images/main-window.png) [<img src="images/settings-window.png" alt="settings-window.png" width="30%">](
+images/settings-window.png)
 
 #### Runner Tool Examples
 
