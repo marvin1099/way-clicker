@@ -104,6 +104,11 @@ System Settings → Shortcuts → Custom Shortcuts, add:
 
 **Also:** This will start the GUI if not running (skip via --nogui), and the needs an addional shortcut trigger to start (skip by removing --guicheck). 
 
+### Screenshots
+[<img src="https://github.com/user-attachments/assets/01879d77-80dd-4e32-8e70-c5d980098787" alt="Screenshot_20260317_194928" width="44%">](
+https://github.com/user-attachments/assets/01879d77-80dd-4e32-8e70-c5d980098787) [<img src="https://github.com/user-attachments/assets/5d34461a-0f97-477b-8b74-3abeacde9818" alt="Screenshot_20260317_195408" width="30%">](
+https://github.com/user-attachments/assets/5d34461a-0f97-477b-8b74-3abeacde9818)
+
 ## Config File
 
 Saved to `~/.config/way-clicker/way-clicker.conf` (INI format via Qt QSettings).
