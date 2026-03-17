@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "way-clicker"
+version = "1.0.0"
+description = "Wayland-aware autoclicker with Qt6 GUI"
+requires-python = ">=3.10"
+dependencies = [
+    "PySide6",
+]
+
+[project.optional-dependencies]
+x11 = ["pyautogui"]
+
+[project.scripts]
+way-clicker = "way_clicker.__main__:main"
+
+[tool.setuptools]
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["way_clicker*"]
