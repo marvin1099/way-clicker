@@ -44,8 +44,8 @@ sudo udevadm control --reload && sudo udevadm trigger
 
 ## Install
 
+Clone from codeberg:
 ```bash
-# Clone from codeberg (or mirror)
 git clone https://codeberg.org/marvin1099/way-clicker
 cd way-clicker
 pipx install .
@@ -105,9 +105,9 @@ System Settings → Shortcuts → Custom Shortcuts, add:
 **Also:** This will start the GUI if not running (skip via --nogui), and the needs an addional shortcut trigger to start (skip by removing --guicheck). 
 
 ### Screenshots
-[<img src="https://github.com/user-attachments/assets/01879d77-80dd-4e32-8e70-c5d980098787" alt="Screenshot_20260317_194928" width="44%">](
-https://github.com/user-attachments/assets/01879d77-80dd-4e32-8e70-c5d980098787) [<img src="https://github.com/user-attachments/assets/f66c0108-e1c8-424e-b908-ccdfb256c311" alt="Screenshot_20260317_195408" width="30%">](
-https://github.com/user-attachments/assets/f66c0108-e1c8-424e-b908-ccdfb256c311)
+[<img src="images/main-window.png" alt="main-window" width="44%">](
+images/main-window.png) [<img src="images/settings-window.png" alt="settings-window.png" width="30%">](
+images/settings-window.png)
 
 ## Config File
 
