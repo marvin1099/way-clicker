@@ -9,7 +9,7 @@ This is mosly a tool I wanted to have, but I'm sharing it becalse why not.
 
 ```bash
 # Arch Linux
-sudo pacman -S python pipx git
+sudo pacman -S python python-pip python-pipx paru git
 paru -S dotool
 
 # Debian / Ubuntu
