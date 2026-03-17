@@ -28,7 +28,7 @@ class SettingsDialog(QDialog):
         form.addRow("Backend:", self._backend_combo)
 
         self._cmd_edit = QLineEdit()
-        self._cmd_edit.setPlaceholderText("dotool")
+        self._cmd_edit.setPlaceholderText("dotoolc")
         form.addRow("Command:", self._cmd_edit)
 
         self._args_edit = QLineEdit()
