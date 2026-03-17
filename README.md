@@ -158,4 +158,4 @@ dotoold &
 ```
 Consider adding it to your autostart.
 
-**Important:** If you want to use ydotool it also requires a daemon running. See the [ydotool GitHub](https://github.com/yzhang-gh/ydotool) for setup instructions.
+**Important:** If you want to use ydotool, keep in mind ydotool also needs a daemon. See the [ydotool GitHub](https://github.com/yzhang-gh/ydotool) for setup instructions.
